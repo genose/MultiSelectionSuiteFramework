@@ -412,6 +412,7 @@
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/Frameworks";
 				PRODUCT_NAME = MultiSelectionSuite;
+				SDKROOT = macosx10.11;
 				SKIP_INSTALL = NO;
 			};
 			name = Debug;
@@ -432,6 +433,7 @@
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/Frameworks";
 				PRODUCT_NAME = MultiSelectionSuite;
+				SDKROOT = macosx10.11;
 				SKIP_INSTALL = NO;
 			};
 			name = Release;
